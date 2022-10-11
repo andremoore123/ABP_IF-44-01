@@ -26,6 +26,10 @@
         </p>
     </fieldset>
     </form>
+    <script>
+        var nama = ["Hello", + "Andre"];
+        alert("ALERT");
+    </script>
 </body>
 <?php 
     print_r($_POST)
